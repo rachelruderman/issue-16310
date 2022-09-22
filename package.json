@@ -17,7 +17,7 @@
   "author": "Gleb Bahmutov <gleb@cypress.io>",
   "license": "ISC",
   "devDependencies": {
-    "@okta/okta-auth-js": "^6.7.5",
+    "@okta/okta-auth-js": "6.9.0",
     "cypress": "^10.6.0",
     "ok-file": "1.5.2"
   },
