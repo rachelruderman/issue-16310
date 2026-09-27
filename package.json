@@ -19,7 +19,7 @@
   "devDependencies": {
     "@okta/okta-auth-js": "^6.7.5",
     "cypress": "^10.6.0",
-    "ok-file": "1.5.2"
+    "ok-file": "1.5.4"
   },
   "repository": {
     "type": "git",
