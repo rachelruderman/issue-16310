@@ -499,12 +499,12 @@ dayjs@^1.10.4:
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.5.tgz#00e8cc627f231f9499c19b38af49f56dc0ac5e93"
   integrity sha512-CAdX5Q3YW3Gclyo5Vpqkgpj8fSdLQcRuzfX6mC6Phy0nfJ0eGYOeS7m4mt2plDWLAtA4TqTakvbboHvUxfe4iA==
 
-debug@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
-  integrity sha512-pYAIzeRo8J6KPEaJ0VWOh5Pzkbw/RetuzehGM7QRRX5he4fPHx2rdKMB256ehJCkX+XRQm16eZLqLNS8RSZXZw==
+debug@4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz#f0d229c505e0c6d8c49ac553d1b13dc183f6b2ee"
+  integrity sha512-doEwdvm4PCeK4K3RQN2ZC2BYUBaxwLARCqZmMjtF8a51J2Rb0xpVloFRnCODwqjpwnAoao4pelN8l3RJdv3gRQ==
   dependencies:
-    ms "^2.1.1"
+    ms "2.1.2"
 
 debug@^3.1.0:
   version "3.2.7"
@@ -1007,12 +1007,12 @@ oblivious-set@1.1.1:
   resolved "https://registry.yarnpkg.com/oblivious-set/-/oblivious-set-1.1.1.tgz#d9d38e9491d51f27a5c3ec1681d2ba40aa81e98b"
   integrity sha512-Oh+8fK09mgGmAshFdH6hSVco6KZmd1tTwNFWj35OvzdmJTMZtAkbn05zar2iG3v6sDs1JLEtOiBGNb6BHwkb2w==
 
-ok-file@1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/ok-file/-/ok-file-1.5.2.tgz#b3356a28f7ac5267fc034588b58edc168d3b7a35"
-  integrity sha512-gjQIHWRYZNBtZomfDwHMsLYkLszy0ZgTalxe4xHAKHH/YxntO2wfbC2nlTr9vhZ/wjq+23FVohJu8XWQrJ3BCQ==
+ok-file@1.5.4:
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/ok-file/-/ok-file-1.5.4.tgz#36970409dae0662693a797ba3ee4db75f1b28865"
+  integrity sha512-x2oY4UKjU7S1rDWJhoNks0IxB2xnmrh8ovX5toEAFpNf2tycg9nBqstPGm7ku5WM9CeHDVQZAFbasJ+jVk+A6w==
   dependencies:
-    debug "4.1.1"
+    debug "4.3.1"
     globby "6.1.0"
     pluralize "8.0.0"
 
